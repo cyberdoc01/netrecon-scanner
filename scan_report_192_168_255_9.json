@@ -1,0 +1,14 @@
+{
+    "target": "192.168.255.9",
+    "scan_time": "2026-04-14 22:01:39.825600",
+    "total_ports_scanned": 1024,
+    "open_ports": 1,
+    "results": [
+        {
+            "port": 53,
+            "service": "DNS",
+            "risk": "LOW",
+            "banner": "No banner"
+        }
+    ]
+}
