@@ -21,3 +21,11 @@ A lightweight Python-based network reconnaissance tool built for cybersecurity l
 
 ```bash
 python port_scanner.py
+
+## Demo
+
+Example output from scan:
+
+## Summary
+
+The tool performs real-time port scanning and generates structured security reports in JSON format.
