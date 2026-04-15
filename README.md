@@ -1,5 +1,12 @@
 # NetRecon Scanner
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+## Network Reconnaissance & Risk Analysis Tool
+# NetRecon Scanner
+
 A lightweight Python-based network reconnaissance tool built for cybersecurity learning and penetration testing practice.
 
 ## Features

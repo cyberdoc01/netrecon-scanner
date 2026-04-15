@@ -1,0 +1,3 @@
+*.json
+scan_report_*
+__pycache__/
